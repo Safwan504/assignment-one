@@ -60,6 +60,13 @@ h2{
     margin: 0;
     margin-bottom: 30px;
 }
+h3{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    color: #363958;
+    font-weight: 400;
+    margin: 20px 5px;
+}
 .button-one{
     margin-top: 50px;
 }
